@@ -6,6 +6,7 @@ public static partial class ArraysAndLists
     {
         Arrays();
         Lists();
+
         Exercises();
     }
 }
