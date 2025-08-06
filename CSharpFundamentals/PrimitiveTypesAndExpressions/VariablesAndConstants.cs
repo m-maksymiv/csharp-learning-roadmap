@@ -24,6 +24,7 @@ public static partial class PrimitiveTypesAndExpressions
         Console.WriteLine("{0} {1}", float.MinValue, float.MaxValue); //Output: -3.4028235E+38 3.4028235E+38
 
         const float Pi = 3.14f;
+        Console.WriteLine(Pi); //Output: 3.14
         //Pi = 0;
 
         Console.WriteLine("Finish -> Variables and Constants");
