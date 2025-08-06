@@ -3,6 +3,7 @@ using CSharpFundamentals.ControlFlow;
 using CSharpFundamentals.NonPrimitiveTypes;
 using CSharpFundamentals.PrimitiveTypesAndExpressions;
 using CSharpFundamentals.WorkingWithDates;
+using CSharpFundamentals.WorkingWithFiles;
 using CSharpFundamentals.WorkingWithText;
 
 PrimitiveTypesAndExpressions.Run();
@@ -11,3 +12,4 @@ ControlFlow.Run();
 ArraysAndLists.Run();
 WorkingWithDates.Run();
 WorkingWithText.Run();
+WorkingWithFiles.Run();
